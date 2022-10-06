@@ -1,0 +1,614 @@
+﻿02/18/22 02:42:21:121 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 8796 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:21:122 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 8796 | Initiating workflow
+02/18/22 02:42:21:122 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 8796 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:21:783 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 8796 | Return code: 0
+02/18/22 02:42:21:784 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 8796 | *********** Adobe GCCustom Hook Ended ************
+02/18/22 02:42:22:090 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 10744 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:22:090 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 10744 | Initiating workflow
+02/18/22 02:42:22:095 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 10744 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:22:365 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 10744 | Return code: 0
+02/18/22 02:42:22:365 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 10744 | *********** Adobe GCCustom Hook Ended ************
+02/18/22 02:42:22:647 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 13324 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:22:648 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 13324 | Initiating workflow
+02/18/22 02:42:22:648 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 13324 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:23:041 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 13324 | Return code: 0
+02/18/22 02:42:23:041 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 13324 | *********** Adobe GCCustom Hook Ended ************
+02/18/22 02:42:23:250 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 6920 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:23:250 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 6920 | Initiating workflow
+02/18/22 02:42:23:250 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 6920 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:23:688 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 6920 | Return code: 0
+02/18/22 02:42:23:689 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 6920 | *********** Adobe GCCustom Hook Ended ************
+02/18/22 02:42:23:881 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 5084 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:23:882 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 5084 | Initiating workflow
+02/18/22 02:42:23:882 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 5084 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:24:458 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 5084 | Return code: 0
+02/18/22 02:42:24:458 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 5084 | *********** Adobe GCCustom Hook Ended ************
+02/18/22 02:42:24:714 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 2112 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:24:715 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 2112 | Initiating workflow
+02/18/22 02:42:24:715 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 2112 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:25:519 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 2112 | Return code: 0
+02/18/22 02:42:25:519 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 2112 | *********** Adobe GCCustom Hook Ended ************
+02/18/22 02:42:25:863 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 9776 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:25:863 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 9776 | Initiating workflow
+02/18/22 02:42:25:863 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 9776 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:26:578 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 9776 | Return code: 0
+02/18/22 02:42:26:578 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 9776 | *********** Adobe GCCustom Hook Ended ************
+02/18/22 02:42:27:050 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 3456 | *********** Adobe GCCustomHook Launched ************
+02/18/22 02:42:27:050 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 3456 | Initiating workflow
+02/18/22 02:42:27:050 | [INFO] |  |  |  | AdobeGCCustomHookWinImpl |  |  | 3456 | AdobeGCCustomHookWinImpl insatnce created
+02/18/22 02:42:27:182 | [INFO] |  |  |  | AdobeGCCustomHook |  |  | 3456 | Return code: 003/02/22 08:30:14:548 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 18260 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/02/22 08:30:14:549 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 9160 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/02/22 08:30:14:549 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 16888 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/02/22 08:30:14:808 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 18260 | Perform WF started
+03/02/22 08:30:14:808 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 16888 | Perform WF started
+03/02/22 08:30:14:809 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 9160 | Perform WF started
+03/02/22 08:30:14:940 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 16888 | Perform WF completed
+03/02/22 08:30:14:940 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 9160 | Perform WF completed
+03/02/22 08:30:14:940 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 18260 | Perform WF completed
+03/02/22 08:30:14:941 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 16888 | ***********AdobeGC Updater library End*******************
+03/02/22 08:30:14:941 | [DEBUG] |  |  |  | AGSService |  |  | 7428 | Trying to acquire the semaphore
+03/02/22 08:30:14:941 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Trying to acquire the semaphore
+03/02/22 08:30:14:941 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 9160 | ***********AdobeGC Updater library End*******************
+03/02/22 08:30:14:941 | [DEBUG] |  |  |  | AGSService |  |  | 17716 | Trying to acquire the semaphore
+03/02/22 08:30:14:941 | [INFO] |  |  |  | AGSService |  |  | 18260 | ***********AdobeGC Updater library End*******************
+03/02/22 08:30:14:941 | [INFO] |  |  |  | AGSService |  |  | 16888 | Thread cfu launched...
+03/02/22 08:30:14:942 | [DEBUG] |  |  |  | AGSService |  |  | 7428 | Semaphore acquired
+03/02/22 08:30:15:418 | [INFO] |  |  |  | AdobeGCHostfileValidation |  |  | 7428 | Hostfile opened successfully
+03/02/22 08:30:15:418 | [DEBUG] |  |  |  | AdobeGCHostfileValidation |  |  | 7428 | Checking if gocart server url is blocked in hostfile
+03/02/22 08:30:15:755 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:30:16:021 | [ERROR] |  |  |  | SLCoreService |  |  | 7428 | user based licensing: 0
+03/02/22 08:30:16:102 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Service construction took 265.7 ms and succeed.
+03/02/22 08:30:34:914 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:30:34:942 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Service destruction took 27.9 ms and succeed.
+03/02/22 08:30:34:942 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | Fetching server URL from dispatch table
+03/02/22 08:30:46:170 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:30:47:115 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | Fetching server URL from dispatch table
+03/02/22 08:30:47:117 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:30:47:306 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 7428 | Delete server domain blocked key
+03/02/22 08:30:47:404 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 3 || ServerDomainBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:30:49:612 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 7428 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:30:49:612 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 
+03/02/22 08:30:49:612 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 7428 | Failed to delete server domain blocked key. Error: 0
+03/02/22 08:30:49:612 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 7428 | Delete server alias blocked key
+03/02/22 08:30:49:613 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 3 || ServerAliasBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:30:51:935 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 7428 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:30:51:935 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 
+03/02/22 08:30:51:935 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 7428 | Failed to delete server alias blocked key. Error: 0
+03/02/22 08:30:51:935 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 7428 | Delete server alias value
+03/02/22 08:30:51:935 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 3 || ServerAlias * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:30:54:191 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 7428 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:30:54:191 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 
+03/02/22 08:30:54:191 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 7428 | Failed to delete server alias value. Error: 0
+03/02/22 08:30:54:191 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Threaded CFU Started
+03/02/22 08:30:54:191 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Update call started
+03/02/22 08:30:54:321 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Suppress Update Flag = 0
+03/02/22 08:30:54:321 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | GC Kill Switch = 0
+03/02/22 08:30:54:321 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 1 || NextUpdateCheckDate * AdobeGenuineWaitTimestamps *  | 
+03/02/22 08:30:56:584 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 7428 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:30:56:585 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 
+03/02/22 08:30:56:717 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Preparing Data For CFU started
+03/02/22 08:30:56:717 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:30:56:717 | [ERROR] |  |  |  | SLCoreService |  |  | 7428 | user based licensing: 0
+03/02/22 08:30:56:718 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Service construction took 0.5 ms and succeed.
+03/02/22 08:30:57:286 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:30:57:286 | [INFO] |  |  |  | SLCoreService |  |  | 7428 | Service destruction took 0.1 ms and succeed.
+03/02/22 08:31:02:239 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:31:02:239 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:31:02:307 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:31:14:683 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Client app successfully signed
+03/02/22 08:31:15:689 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:31:15:689 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:31:15:851 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:31:16:588 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Client app successfully signed
+03/02/22 08:31:24:942 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Semaphore acquired
+03/02/22 08:31:25:825 | [DEBUG] |  |  |  | AdobeGCHostfileValidation |  |  | 17856 | Checking if gocart server url is blocked in hostfile
+03/02/22 08:31:25:972 | [INFO] |  |  |  | AdobeGCHostfileValidation |  |  | 17856 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:31:25:972 | [DEBUG] |  |  |  | AdobeGCHostfileValidation |  |  | 17716 | Checking if gocart server url is blocked in hostfile
+03/02/22 08:31:25:972 | [ERROR] |  |  |  | SLCoreService |  |  | 17856 | user based licensing: 0
+03/02/22 08:31:25:972 | [INFO] |  |  |  | SLCoreService |  |  | 17856 | Service construction took 147.4 ms and succeed.
+03/02/22 08:31:31:802 | [ERROR] |  |  |  | SLCoreService |  |  | 17856 | Fetching server URL from dispatch table
+03/02/22 08:31:31:803 | [INFO] |  |  |  | SLCoreService |  |  | 17716 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:31:31:803 | [INFO] |  |  |  | SLCoreService |  |  | 17716 | Service destruction took 0.4 ms and succeed.
+03/02/22 08:31:31:803 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | Fetching server URL from dispatch table
+03/02/22 08:31:31:925 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:31:32:130 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | Fetching server URL from dispatch table
+03/02/22 08:31:32:132 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:31:32:281 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 17716 | Delete server domain blocked key
+03/02/22 08:31:32:281 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 3 || ServerDomainBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:31:32:476 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:31:32:641 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | Fetching server URL from dispatch table
+03/02/22 08:31:32:736 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:31:32:850 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 17856 | Delete server domain blocked key
+03/02/22 08:31:32:850 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 3 || ServerDomainBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:31:34:716 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17716 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:31:34:717 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 
+03/02/22 08:31:34:717 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 17716 | Failed to delete server domain blocked key. Error: 0
+03/02/22 08:31:34:717 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 17716 | Delete server alias blocked key
+03/02/22 08:31:34:717 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 3 || ServerAliasBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:31:35:060 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17856 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:31:35:060 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 
+03/02/22 08:31:35:060 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 17856 | Failed to delete server domain blocked key. Error: 0
+03/02/22 08:31:35:060 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 17856 | Delete server alias blocked key
+03/02/22 08:31:35:060 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 3 || ServerAliasBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:31:37:292 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17856 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:31:37:292 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 
+03/02/22 08:31:37:292 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 17856 | Failed to delete server alias blocked key. Error: 0
+03/02/22 08:31:37:292 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 17856 | Delete server alias value
+03/02/22 08:31:37:292 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 3 || ServerAlias * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:31:37:353 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17716 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:31:37:354 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 
+03/02/22 08:31:37:354 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 17716 | Failed to delete server alias blocked key. Error: 0
+03/02/22 08:31:37:354 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 17716 | Delete server alias value
+03/02/22 08:31:37:354 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 3 || ServerAlias * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:31:44:346 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:31:44:347 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:31:44:347 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Threaded CFU Started
+03/02/22 08:31:44:347 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Threaded CFU Started
+03/02/22 08:31:44:347 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Update call started
+03/02/22 08:31:44:348 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Update call started
+03/02/22 08:31:44:348 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Suppress Update Flag = 0
+03/02/22 08:31:44:349 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Suppress Update Flag = 0
+03/02/22 08:31:44:349 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | GC Kill Switch = 0
+03/02/22 08:31:44:349 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | GC Kill Switch = 0
+03/02/22 08:31:44:349 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 1 || NextUpdateCheckDate * AdobeGenuineWaitTimestamps *  | 
+03/02/22 08:31:44:349 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 1 || NextUpdateCheckDate * AdobeGenuineWaitTimestamps *  | 
+03/02/22 08:31:44:762 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 1646010184 *  | 
+03/02/22 08:31:44:762 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Sandbox process response: 1 || 1646010184 *  | 
+03/02/22 08:31:44:762 | [ERROR] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Time flag read
+03/02/22 08:31:44:762 | [ERROR] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Time flag read
+03/02/22 08:31:44:820 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | LastUpdateCheckDurationPassed from cache 1646010184
+03/02/22 08:31:44:821 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | LastUpdateCheckDurationPassed from cache 1646010184
+03/02/22 08:31:44:821 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | LastUpdateCheckDurationPassed cached 1646010184 , curr 1646184704 res = 1
+03/02/22 08:31:44:821 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | LastUpdateCheckDurationPassed cached 1646010184 , curr 1646184704 res = 1
+03/02/22 08:31:44:821 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Preparing Data For CFU started
+03/02/22 08:31:44:821 | [INFO] |  |  |  | SLCoreService |  |  | 17716 | Preparing Data For CFU started
+03/02/22 08:31:44:821 | [INFO] |  |  |  | SLCoreService |  |  | 17856 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:31:44:822 | [ERROR] |  |  |  | SLCoreService |  |  | 17856 | user based licensing: 0
+03/02/22 08:31:44:822 | [INFO] |  |  |  | SLCoreService |  |  | 17856 | Service construction took 0.5 ms and succeed.
+03/02/22 08:31:45:471 | [INFO] |  |  |  | SLCoreService |  |  | 17716 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+03/02/22 08:31:45:471 | [INFO] |  |  |  | SLCoreService |  |  | 17716 | Service destruction took 0.2 ms and succeed.
+03/02/22 08:31:46:112 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:31:46:112 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:31:46:112 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:31:46:112 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:31:46:190 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:31:46:190 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:31:46:207 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Client app successfully signed
+03/02/22 08:31:46:282 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:31:46:282 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:31:46:287 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Client app successfully signed
+03/02/22 08:31:46:360 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:31:46:366 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:31:46:366 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:31:46:367 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Client app successfully signed
+03/02/22 08:31:46:430 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:31:46:490 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Client app successfully signed
+03/02/22 08:36:04:793 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:04:793 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:04:793 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:04:793 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:04:793 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:04:793 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:07:137 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:07:146 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:07:155 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:16:148 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Client app successfully signed
+03/02/22 08:36:16:148 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Client app successfully signed
+03/02/22 08:36:16:148 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Client app successfully signed
+03/02/22 08:36:21:093 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:21:093 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:21:094 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:21:094 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:21:096 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:21:096 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:21:180 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:21:262 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Client app successfully signed
+03/02/22 08:36:21:272 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:21:272 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:21:349 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Client app successfully signed
+03/02/22 08:36:21:349 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Client app successfully signed
+03/02/22 08:36:21:842 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:21:842 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:21:842 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:21:842 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:21:842 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:21:842 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:21:924 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:21:926 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:21:929 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:22:540 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Client app successfully signed
+03/02/22 08:36:22:576 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Client app successfully signed
+03/02/22 08:36:22:589 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Client app successfully signed
+03/02/22 08:36:23:231 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:23:231 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:23:237 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:23:237 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:23:238 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:23:238 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:23:282 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:23:283 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:23:287 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:23:834 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Client app successfully signed
+03/02/22 08:36:23:901 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Client app successfully signed
+03/02/22 08:36:23:913 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Client app successfully signed
+03/02/22 08:36:24:760 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:24:760 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:24:760 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:24:760 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:24:760 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:24:761 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Found valid signature, checking if signed by Adobe or not
+03/02/22 08:36:24:930 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Signature found
+03/02/22 08:36:24:940 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Signature found
+03/02/22 08:36:24:958 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Signature found
+03/02/22 08:36:25:685 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 7428 | Client app successfully signed
+03/02/22 08:36:25:687 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17856 | Client app successfully signed
+03/02/22 08:36:26:217 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 17716 | Client app successfully signed
+03/02/22 08:37:23:794 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Preparing Data For CFU started
+03/02/22 08:37:23:794 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Preparing Data For CFU started
+03/02/22 08:37:23:794 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Preparing Data For CFU started
+03/02/22 08:37:23:855 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | Check for update started
+03/02/22 08:37:23:856 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | Check for update started
+03/02/22 08:37:23:856 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | Check for update started
+03/02/22 08:37:23:984 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:37:23:984 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:37:23:985 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/02/22 08:37:25:332 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 7428 | Verifying if server domain is blocked
+03/02/22 08:37:25:332 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 17716 | Verifying if server domain is blocked
+03/02/22 08:37:25:332 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Verifying if server domain is blocked
+03/02/22 08:37:25:332 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 1 || ServerDomainBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:37:25:332 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 1 || ServerDomainBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:37:25:332 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 1 || ServerDomainBlocked * AdobeGenuineNSLookUpData *  | 
+03/02/22 08:37:28:294 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17856 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:37:28:294 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17716 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:37:28:294 | [ERROR] |  |  |  | WinSandboxingUtilities |  |  | 7428 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:37:28:294 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 
+03/02/22 08:37:28:294 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 
+03/02/22 08:37:28:295 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 
+03/02/22 08:37:32:544 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 1 || GCGUID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:32:545 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 1 || GCGUID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:32:545 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 1 || GCGUID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:34:760 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17856 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:37:34:761 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17716 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:37:34:761 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 
+03/02/22 08:37:34:761 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 
+03/02/22 08:37:34:761 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 || b2036108-3e22-43d2-98bf-b65fdc47e5bb * GCGUID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:34:761 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 || 2d2c7e14-d2e1-40f3-9c11-1e1817e24acf * GCGUID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:37:795 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 1 || 65b8d300-bb2a-4bf5-b0de-2cc952e8540e *  | 
+03/02/22 08:37:37:796 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 1 || GCReplayID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:39:948 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:37:39:948 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 ||  * GCReplayID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:40:120 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 1 || ea10570f-78be-45a6-8389-65a838395c9b *  | 
+03/02/22 08:37:40:120 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 1 || GCReplayTimestamp * AdobeGenuineReplayData *  | 
+03/02/22 08:37:41:680 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:37:41:680 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 ||  * GCReplayID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:42:189 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 1 || 1645923174000 *  | 
+03/02/22 08:37:42:279 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | HTTPCommunicationAgent::processMessage is https://genuine.adobe.com/server/services/update/v1 (extURL=)
+03/02/22 08:37:42:741 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:37:42:741 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 ||  * GCReplayTimestamp * AdobeGenuineReplayData *  | 
+03/02/22 08:37:43:882 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:37:43:883 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 ||  * GCReplayTimestamp * AdobeGenuineReplayData *  | 
+03/02/22 08:37:44:900 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:37:44:900 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | HTTPCommunicationAgent::processMessage is https://genuine.adobe.com/server/services/update/v1 (extURL=)
+03/02/22 08:37:46:194 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:37:46:194 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | HTTPCommunicationAgent::processMessage is https://genuine.adobe.com/server/services/update/v1 (extURL=)
+03/02/22 08:37:49:812 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 13444 | HTTP Request Status code 200.
+03/02/22 08:37:49:812 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 12016 | HTTP Request Status code 200.
+03/02/22 08:37:49:812 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17748 | HTTP Request Status code 200.
+03/02/22 08:37:49:813 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | HTTPCommunicationAgent- Return Code:[0] response size-[321] time taken-[4912.93]ms.
+03/02/22 08:37:49:813 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 || 2d2c7e14-d2e1-40f3-9c11-1e1817e24acf * GCGUID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:49:814 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | HTTPCommunicationAgent- Return Code:[0] response size-[321] time taken-[3619.50]ms.
+03/02/22 08:37:49:814 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | HTTPCommunicationAgent- Return Code:[0] response size-[219] time taken-[7534.84]ms.
+03/02/22 08:37:49:814 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 || b2036108-3e22-43d2-98bf-b65fdc47e5bb * GCGUID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:49:814 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | Parsing response successful
+03/02/22 08:37:49:814 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | No update required
+03/02/22 08:37:49:814 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | Get AdobeGC client download path status - [0] took - [25829.57]ms.
+03/02/22 08:37:49:814 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | No new update found for client app
+03/02/22 08:37:49:815 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+03/02/22 08:37:49:911 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7428 | Check for update ended
+03/02/22 08:37:49:911 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Client application up to date
+03/02/22 08:37:49:911 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | SetUpdateCheckWaitDuration 
+03/02/22 08:37:49:911 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | SetUpdateCheckWaitDuration Wait Period 86400
+03/02/22 08:37:49:911 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 2 || 1646271469 * NextUpdateCheckDate * AdobeGenuineWaitTimestamps *  | 
+03/02/22 08:37:51:549 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:37:51:549 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 || 7172aab4-67d0-494b-a719-92dcd62b74e7 * GCReplayID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:52:561 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 1 || 
+03/02/22 08:37:52:561 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | SetUpdateCheckWaitDuration Wait Period Xtnd 1646271469
+03/02/22 08:37:52:561 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | SetLastUpdateCheckAttempted 
+03/02/22 08:37:52:562 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 2 || 1646185072000 * LastUpdateCheckAttempted * AdobeGenuineData *  | 
+03/02/22 08:37:53:657 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:37:53:658 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 || 1646185069000 * GCReplayTimestamp * AdobeGenuineReplayData *  | 
+03/02/22 08:37:54:556 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 1 || 
+03/02/22 08:37:54:557 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | SaveUpdateRequestStatus 
+03/02/22 08:37:54:557 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process request: 2 || Success,0 * LastUpdateRequestStatus * AdobeGenuineData *  | 
+03/02/22 08:37:55:534 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:37:55:666 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 9 || 7172aab4-67d0-494b-a719-92dcd62b74e7 * b2036108-3e22-43d2-98bf-b65fdc47e5bb * AGDStatusNoErr * 1646185069000 *  | 
+03/02/22 08:37:57:636 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7428 | Sandbox process response: 1 || 
+03/02/22 08:37:57:636 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Update call ended
+03/02/22 08:37:57:636 | [INFO] |  |  |  | AGSService |  |  | 7428 | Thread CFU CheckCFU ...
+03/02/22 08:37:57:637 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Threaded CFU Ended
+03/02/22 08:37:57:637 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 7428 | Semaphore signalled
+03/02/22 08:37:57:995 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 17856 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/02/22 08:37:57:995 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 
+03/02/22 08:37:57:995 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | Parsing response successful
+03/02/22 08:37:57:995 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | No update required
+03/02/22 08:37:57:995 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | Get AdobeGC client download path status - [0] took - [34011.15]ms.
+03/02/22 08:37:57:995 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | No new update found for client app
+03/02/22 08:37:57:995 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+03/02/22 08:37:57:995 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17856 | Check for update ended
+03/02/22 08:37:57:995 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Client application up to date
+03/02/22 08:37:57:996 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | SetUpdateCheckWaitDuration 
+03/02/22 08:37:57:996 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | SetUpdateCheckWaitDuration Wait Period 86400
+03/02/22 08:37:57:996 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 || 1646271477 * NextUpdateCheckDate * AdobeGenuineWaitTimestamps *  | 
+03/02/22 08:37:58:651 | [INFO] |  |  |  | AGSService |  |  | 4612 | Thread Finished ...
+03/02/22 08:37:58:651 | [INFO] |  |  |  | AGSService |  |  | 10424 | Thread Finished ...
+03/02/22 08:37:58:691 | [INFO] |  |  |  | AGSService |  |  | 11284 | Thread Finished ...
+03/02/22 08:37:59:055 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:37:59:055 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 || 5641e44f-6905-4238-a2f8-e5ee5bea2c65 * GCReplayID * AdobeGenuineReplayData *  | 
+03/02/22 08:37:59:799 | [INFO] |  |  |  | AGSService |  |  | 11284 | CreateEvent Done
+03/02/22 08:37:59:799 | [INFO] |  |  |  | AGSService |  |  | 10424 | CreateEvent Done
+03/02/22 08:37:59:799 | [INFO] |  |  |  | AGSService |  |  | 4612 | CreateEvent Done
+03/02/22 08:37:59:799 | [INFO] |  |  |  | AGSService |  |  | 11284 | CreateTimerQueue Done
+03/02/22 08:37:59:799 | [INFO] |  |  |  | AGSService |  |  | 10424 | CreateTimerQueue Done
+03/02/22 08:37:59:800 | [INFO] |  |  |  | AGSService |  |  | 4612 | CreateTimerQueue Done
+03/02/22 08:37:59:800 | [INFO] |  |  |  | AGSService |  |  | 11284 | CreateTimerQueueTimer Done
+03/02/22 08:37:59:800 | [INFO] |  |  |  | AGSService |  |  | 10424 | CreateTimerQueueTimer Done
+03/02/22 08:37:59:800 | [INFO] |  |  |  | AGSService |  |  | 4612 | CreateTimerQueueTimer Done
+03/02/22 08:37:59:800 | [INFO] |  |  |  | AGSService |  |  | 11284 | Call timer routine in 6 hrs...
+03/02/22 08:37:59:800 | [INFO] |  |  |  | AGSService |  |  | 10424 | Call timer routine in 6 hrs...
+03/02/22 08:37:59:801 | [INFO] |  |  |  | AGSService |  |  | 4612 | Call timer routine in 6 hrs...
+03/02/22 08:38:01:176 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:38:01:176 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | SetUpdateCheckWaitDuration Wait Period Xtnd 1646271477
+03/02/22 08:38:01:176 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | SetLastUpdateCheckAttempted 
+03/02/22 08:38:01:176 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 || 1646185081000 * LastUpdateCheckAttempted * AdobeGenuineData *  | 
+03/02/22 08:38:02:985 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:38:02:986 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 || 1646185069000 * GCReplayTimestamp * AdobeGenuineReplayData *  | 
+03/02/22 08:38:04:656 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:38:04:656 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | SaveUpdateRequestStatus 
+03/02/22 08:38:04:656 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process request: 2 || Success,0 * LastUpdateRequestStatus * AdobeGenuineData *  | 
+03/02/22 08:38:06:314 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:38:06:314 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 9 || 5641e44f-6905-4238-a2f8-e5ee5bea2c65 * 2d2c7e14-d2e1-40f3-9c11-1e1817e24acf * AGDStatusNoErr * 1646185069000 *  | 
+03/02/22 08:38:08:030 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17856 | Sandbox process response: 1 || 
+03/02/22 08:38:08:030 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Update call ended
+03/02/22 08:38:08:030 | [INFO] |  |  |  | AGSService |  |  | 17856 | Thread CFU CheckCFU ...
+03/02/22 08:38:08:031 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Threaded CFU Ended
+03/02/22 08:38:08:031 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17856 | Semaphore signalled
+03/02/22 08:38:11:075 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:38:11:075 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | Parsing response successful
+03/02/22 08:38:11:075 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | No update required
+03/02/22 08:38:11:076 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | Get AdobeGC client download path status - [0] took - [47091.54]ms.
+03/02/22 08:38:11:076 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | No new update found for client app
+03/02/22 08:38:11:076 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+03/02/22 08:38:11:076 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 17716 | Check for update ended
+03/02/22 08:38:11:076 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Client application up to date
+03/02/22 08:38:11:076 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | SetUpdateCheckWaitDuration 
+03/02/22 08:38:11:076 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | SetUpdateCheckWaitDuration Wait Period 86400
+03/02/22 08:38:11:076 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 || 1646271491 * NextUpdateCheckDate * AdobeGenuineWaitTimestamps *  | 
+03/02/22 08:38:15:291 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:38:20:446 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | SetUpdateCheckWaitDuration Wait Period Xtnd 1646271491
+03/02/22 08:38:20:446 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | SetLastUpdateCheckAttempted 
+03/02/22 08:38:20:446 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 || 1646185100000 * LastUpdateCheckAttempted * AdobeGenuineData *  | 
+03/02/22 08:38:24:382 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:38:24:382 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | SaveUpdateRequestStatus 
+03/02/22 08:38:24:382 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process request: 2 || Success,0 * LastUpdateRequestStatus * AdobeGenuineData *  | 
+03/02/22 08:38:28:331 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 17716 | Sandbox process response: 1 || 
+03/02/22 08:38:28:331 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Update call ended
+03/02/22 08:38:28:331 | [INFO] |  |  |  | AGSService |  |  | 17716 | Thread CFU CheckCFU ...
+03/02/22 08:38:28:331 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Threaded CFU Ended
+03/02/22 08:38:28:331 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 17716 | Semaphore signalled
+03/03/22 10:52:20:169 | [INFO] |  |  |  | AGSService |  |  | 4104 | Retrieving ptr
+03/03/22 10:52:22:178 | [INFO] |  |  |  | AGSService |  |  | 10884 | Retrieving ptr
+03/03/22 10:52:22:232 | [INFO] |  |  |  | AGSService |  |  | 8392 | Retrieving ptr
+03/03/22 10:52:22:320 | [INFO] |  |  |  | AGSService |  |  | 4104 | The wait timed out.
+03/03/22 10:52:22:373 | [INFO] |  |  |  | AGSService |  |  | 10884 | The wait timed out.
+03/03/22 10:52:22:474 | [INFO] |  |  |  | AGSService |  |  | 3012 | Retrieving ptr
+03/03/22 10:52:22:551 | [INFO] |  |  |  | AGSService |  |  | 17044 | Retrieving ptr
+03/03/22 10:52:22:604 | [INFO] |  |  |  | AGSService |  |  | 13868 | Retrieving ptr
+03/03/22 10:52:22:604 | [INFO] |  |  |  | AGSService |  |  | 8392 | The wait timed out.
+03/03/22 10:52:22:604 | [INFO] |  |  |  | AGSService |  |  | 3012 | The wait timed out.
+03/03/22 10:52:22:632 | [INFO] |  |  |  | AGSService |  |  | 11284 | WaitForSingleObject Done
+03/03/22 10:52:22:749 | [INFO] |  |  |  | AGSService |  |  | 17044 | The wait timed out.
+03/03/22 10:52:22:749 | [INFO] |  |  |  | AGSService |  |  | 13868 | The wait timed out.
+03/03/22 10:52:22:820 | [INFO] |  |  |  | AGSService |  |  | 10424 | WaitForSingleObject Done
+03/03/22 10:52:22:827 | [INFO] |  |  |  | AGSService |  |  | 4612 | WaitForSingleObject Done
+03/03/22 10:52:22:890 | [ERROR] |  |  |  | AGSService |  |  | 10884 | Caller user name:SYSTEM
+03/03/22 10:52:22:890 | [ERROR] |  |  |  | AGSService |  |  | 4104 | Caller user name:SYSTEM
+03/03/22 10:52:22:890 | [ERROR] |  |  |  | AGSService |  |  | 17044 | Caller user name:SYSTEM
+03/03/22 10:52:22:890 | [ERROR] |  |  |  | AGSService |  |  | 3012 | Caller user name:SYSTEM
+03/03/22 10:52:22:891 | [ERROR] |  |  |  | AGSService |  |  | 8392 | Caller user name:SYSTEM
+03/03/22 10:52:22:891 | [ERROR] |  |  |  | AGSService |  |  | 13868 | Caller user name:SYSTEM
+03/03/22 10:52:22:891 | [ERROR] |  |  |  | AGSService |  |  | 10884 | Started creating entries for uninstaller
+03/03/22 10:52:22:929 | [ERROR] |  |  |  | AGSService |  |  | 4104 | Started creating entries for uninstaller
+03/03/22 10:52:22:929 | [ERROR] |  |  |  | AGSService |  |  | 17044 | Started creating entries for uninstaller
+03/03/22 10:52:22:982 | [ERROR] |  |  |  | AGSService |  |  | 3012 | Started creating entries for uninstaller
+03/03/22 10:52:22:982 | [ERROR] |  |  |  | AGSService |  |  | 8392 | Started creating entries for uninstaller
+03/03/22 10:52:23:001 | [ERROR] |  |  |  | AGSService |  |  | 13868 | Started creating entries for uninstaller
+03/03/22 10:52:23:001 | [INFO] |  |  |  | AGSService |  |  | 4612 | DeleteTimerQueue Done
+03/03/22 10:52:23:001 | [INFO] |  |  |  | AGSService |  |  | 10424 | DeleteTimerQueue Done
+03/03/22 10:52:23:001 | [INFO] |  |  |  | AGSService |  |  | 11284 | DeleteTimerQueue Done
+03/03/22 10:52:24:062 | [INFO] |  |  |  | AGSService |  |  | 10884 | AdobeGCData folder already exists
+03/03/22 10:52:24:105 | [INFO] |  |  |  | AGSService |  |  | 13868 | AdobeGCData folder already exists
+03/03/22 10:52:24:105 | [INFO] |  |  |  | AGSService |  |  | 8392 | AdobeGCData folder already exists
+03/03/22 10:52:24:106 | [INFO] |  |  |  | AGSService |  |  | 17044 | AdobeGCData folder already exists
+03/03/22 10:52:24:106 | [INFO] |  |  |  | AGSService |  |  | 3012 | AdobeGCData folder already exists
+03/03/22 10:52:24:106 | [INFO] |  |  |  | AGSService |  |  | 4104 | AdobeGCData folder already exists
+03/03/22 10:52:24:106 | [INFO] |  |  |  | AGSService |  |  | 10884 | AdobeGCData folder: checking for junction/symlink
+03/03/22 10:52:24:147 | [INFO] |  |  |  | AGSService |  |  | 13868 | AdobeGCData folder: checking for junction/symlink
+03/03/22 10:52:24:147 | [INFO] |  |  |  | AGSService |  |  | 8392 | AdobeGCData folder: checking for junction/symlink
+03/03/22 10:52:24:206 | [INFO] |  |  |  | AGSService |  |  | 17044 | AdobeGCData folder: checking for junction/symlink
+03/03/22 10:52:24:206 | [INFO] |  |  |  | AGSService |  |  | 3012 | AdobeGCData folder: checking for junction/symlink
+03/03/22 10:52:24:206 | [INFO] |  |  |  | AGSService |  |  | 4104 | AdobeGCData folder: checking for junction/symlink
+03/03/22 10:52:24:334 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData
+03/03/22 10:52:24:334 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData
+03/03/22 10:52:24:334 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData
+03/03/22 10:52:24:335 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData
+03/03/22 10:52:24:335 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData
+03/03/22 10:52:24:335 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData
+03/03/22 10:52:24:426 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:426 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:426 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:427 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:427 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:427 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:427 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:427 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:428 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:428 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:428 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:428 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:480 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeNGLAppIDMap.db
+03/03/22 10:52:24:549 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeNGLAppIDMap.db
+03/03/22 10:52:24:549 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeNGLAppIDMap.db
+03/03/22 10:52:24:549 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeNGLAppIDMap.db
+03/03/22 10:52:24:549 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeNGLAppIDMap.db
+03/03/22 10:52:24:549 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeNGLAppIDMap.db
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:24:964 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCLaunchEvent.db
+03/03/22 10:52:25:057 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCLaunchEvent.db
+03/03/22 10:52:25:104 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCLaunchEvent.db
+03/03/22 10:52:25:104 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCLaunchEvent.db
+03/03/22 10:52:25:105 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:105 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:105 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:105 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:105 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCLaunchEvent.db
+03/03/22 10:52:25:105 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCLaunchEvent.db
+03/03/22 10:52:25:150 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:150 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:150 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:150 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:151 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:151 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:151 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCData.db
+03/03/22 10:52:25:151 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:151 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:152 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:152 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCData.db
+03/03/22 10:52:25:152 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\adobegc.log
+03/03/22 10:52:25:152 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCData.db
+03/03/22 10:52:25:153 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:153 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCData.db
+03/03/22 10:52:25:153 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\adobegc.log
+03/03/22 10:52:25:153 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\adobegc.log
+03/03/22 10:52:25:153 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCData.db
+03/03/22 10:52:25:154 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\adobegc.log
+03/03/22 10:52:25:154 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\adobegc.log
+03/03/22 10:52:25:196 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:197 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:309 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\AdobeGCData.db
+03/03/22 10:52:25:310 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Validating permissions of C:\Users\Public\Documents\AdobeGCData\adobegc.log
+03/03/22 10:52:25:844 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:845 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:845 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:845 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 3012 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:845 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 4104 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:847 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 13868 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:847 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:848 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 17044 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:849 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:849 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 8392 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:849 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid DACL permissions found
+03/03/22 10:52:25:849 | [INFO] |  |  |  | AdobeGCServiceUtilityLog |  |  | 10884 | GC local storage: Valid SACL permissions found
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 17044 | Successfully created/fetched AdobeGCData Folder 
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 8392 | Successfully created/fetched AdobeGCData Folder 
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 17044 | Thread...
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 10884 | Successfully created/fetched AdobeGCData Folder 
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 8392 | Thread...
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 4104 | Successfully created/fetched AdobeGCData Folder 
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 10884 | Thread...
+03/03/22 10:52:25:946 | [INFO] |  |  |  | AGSService |  |  | 3012 | Successfully created/fetched AdobeGCData Folder 
+03/03/22 10:52:25:947 | [INFO] |  |  |  | AGSService |  |  | 13868 | Successfully created/fetched AdobeGCData Folder 
+03/03/22 10:52:25:947 | [INFO] |  |  |  | AGSService |  |  | 4104 | Thread...
+03/03/22 10:52:25:947 | [INFO] |  |  |  | AGSService |  |  | 3012 | Thread...
+03/03/22 10:52:25:947 | [INFO] |  |  |  | AGSService |  |  | 13868 | Thread...
+03/03/22 10:52:25:995 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 14812 | Sandbox process request: 1 || UninstallClient * AdobeGenuineData *  | 
+03/03/22 10:52:26:043 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 14944 | Sandbox process request: 1 || UninstallClient * AdobeGenuineData *  | 
+03/03/22 10:52:26:043 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 12256 | Sandbox process request: 1 || UninstallClient * AdobeGenuineData *  | 
+03/03/22 10:52:26:044 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 11908 | Sandbox process request: 1 || UninstallClient * AdobeGenuineData *  | 
+03/03/22 10:52:26:074 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 11952 | Sandbox process request: 1 || UninstallClient * AdobeGenuineData *  | 
+03/03/22 10:52:26:118 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 6780 | Sandbox process request: 1 || UninstallClient * AdobeGenuineData *  | 
+03/03/22 10:52:29:968 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 14944 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:30:027 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 14812 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:30:027 | [ERROR] |  |  |  | WinSandboxingUtilities |  |  | 12256 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:30:027 | [ERROR] |  |  |  | WinSandboxingUtilities |  |  | 11908 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:30:028 | [ERROR] |  |  |  | WinSandboxingUtilities |  |  | 6780 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:30:028 | [ERROR] |  |  |  | WinSandboxingUtilities |  |  | 11952 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:30:028 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 14944 | Sandbox process response: 
+03/03/22 10:52:30:028 | [INFO] |  |  |  | AGSService |  |  | 14812 | Sandbox process response: 
+03/03/22 10:52:30:028 | [INFO] |  |  |  | AGSService |  |  | 11952 | Sandbox process response: 
+03/03/22 10:52:30:028 | [INFO] |  |  |  | AGSService |  |  | 14944 | Thread inside...
+03/03/22 10:52:30:028 | [INFO] |  |  |  | AGSService |  |  | 14812 | Thread inside...
+03/03/22 10:52:30:028 | [INFO] |  |  |  | AGSService |  |  | 11952 | Thread inside...
+03/03/22 10:52:30:029 | [INFO] |  |  |  | AGSService |  |  | 14944 | Thread calling CFU...
+03/03/22 10:52:30:029 | [INFO] |  |  |  | AGSService |  |  | 14812 | Thread calling CFU...
+03/03/22 10:52:30:029 | [INFO] |  |  |  | AGSService |  |  | 11952 | Thread calling CFU...
+03/03/22 10:52:30:097 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 11908 | Sandbox process response: 
+03/03/22 10:52:30:097 | [INFO] |  |  |  | AGSService |  |  | 11908 | Thread inside...
+03/03/22 10:52:30:097 | [INFO] |  |  |  | AGSService |  |  | 11908 | Thread calling CFU...
+03/03/22 10:52:30:187 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 6780 | Sandbox process response: 
+03/03/22 10:52:30:187 | [INFO] |  |  |  | AGSService |  |  | 12256 | Sandbox process response: 
+03/03/22 10:52:30:187 | [INFO] |  |  |  | AGSService |  |  | 6780 | Thread inside...
+03/03/22 10:52:30:188 | [INFO] |  |  |  | AGSService |  |  | 12256 | Thread inside...
+03/03/22 10:52:30:188 | [INFO] |  |  |  | AGSService |  |  | 6780 | Thread calling CFU...
+03/03/22 10:52:30:188 | [INFO] |  |  |  | AGSService |  |  | 12256 | Thread calling CFU...
+03/03/22 10:52:30:338 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 11952 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/03/22 10:52:30:338 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 11908 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/03/22 10:52:30:338 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 6780 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/03/22 10:52:30:339 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 12256 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/03/22 10:52:30:339 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 14812 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/03/22 10:52:30:339 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 14944 | ***********AdobeGC Updater library invoked = 7.6.0.52 ************
+03/03/22 10:52:30:695 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 11908 | Perform WF started
+03/03/22 10:52:30:695 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 6780 | Perform WF started
+03/03/22 10:52:30:695 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 14812 | Perform WF started
+03/03/22 10:52:30:695 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 14944 | Perform WF started
+03/03/22 10:52:30:695 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 11952 | Perform WF started
+03/03/22 10:52:30:696 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 12256 | Perform WF started
+03/03/22 10:52:30:832 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 11952 | Perform WF completed
+03/03/22 10:52:30:832 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 11952 | ***********AdobeGC Updater library End*******************
+03/03/22 10:52:30:832 | [INFO] |  |  |  | AGSService |  |  | 11952 | Thread cfu launched...
+03/03/22 10:52:30:833 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 14812 | Perform WF completed
+03/03/22 10:52:30:833 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 14812 | ***********AdobeGC Updater library End*******************
+03/03/22 10:52:30:833 | [INFO] |  |  |  | AGSService |  |  | 14812 | Thread cfu launched...
+03/03/22 10:52:30:834 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 6780 | Perform WF completed
+03/03/22 10:52:30:834 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 6780 | ***********AdobeGC Updater library End*******************
+03/03/22 10:52:30:834 | [INFO] |  |  |  | AGSService |  |  | 6780 | Thread cfu launched...
+03/03/22 10:52:30:834 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 14944 | Perform WF completed
+03/03/22 10:52:30:834 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 14944 | ***********AdobeGC Updater library End*******************
+03/03/22 10:52:30:835 | [INFO] |  |  |  | AGSService |  |  | 14944 | Thread cfu launched...
+03/03/22 10:52:30:835 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 11908 | Perform WF completed
+03/03/22 10:52:30:835 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 11908 | ***********AdobeGC Updater library End*******************
+03/03/22 10:52:30:835 | [INFO] |  |  |  | AGSService |  |  | 12256 | Perform WF completed
+03/03/22 10:52:30:835 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 11908 | Thread cfu launched...
+03/03/22 10:52:30:836 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 12256 | ***********AdobeGC Updater library End*******************
+03/03/22 10:52:30:836 | [INFO] |  |  |  | AGSService |  |  | 12256 | Thread cfu launched...
+03/03/22 10:52:30:855 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 7340 | Trying to acquire the semaphore
+03/03/22 10:52:30:855 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 7340 | Semaphore acquired
+03/03/22 10:52:31:259 | [INFO] |  |  |  | AdobeGCHostfileValidation |  |  | 7340 | Hostfile opened successfully
+03/03/22 10:52:31:259 | [DEBUG] |  |  |  | AdobeGCHostfileValidation |  |  | 7340 | Checking if gocart server url is blocked in hostfile
+03/03/22 10:52:31:454 | [INFO] |  |  |  | SLCoreService |  |  | 7340 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+03/03/22 10:52:31:614 | [ERROR] |  |  |  | SLCoreService |  |  | 7340 | user based licensing: 0
+03/03/22 10:52:31:795 | [INFO] |  |  |  | SLCoreService |  |  | 7340 | Service construction took 199.2 ms and succeed.
+03/03/22 10:52:44:198 | [INFO] |  |  |  | SLCoreService |  |  | 7340 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+03/03/22 10:52:44:235 | [INFO] |  |  |  | SLCoreService |  |  | 7340 | Service destruction took 669.7 ms and succeed.
+03/03/22 10:52:44:236 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 7340 | Fetching server URL from dispatch table
+03/03/22 10:52:46:640 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7340 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/03/22 10:52:47:729 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 7340 | Fetching server URL from dispatch table
+03/03/22 10:52:47:733 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 7340 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+03/03/22 10:52:48:110 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 7340 | Delete server domain blocked key
+03/03/22 10:52:48:219 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7340 | Sandbox process request: 3 || ServerDomainBlocked * AdobeGenuineNSLookUpData *  | 
+03/03/22 10:52:50:601 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 7340 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:50:602 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7340 | Sandbox process response: 
+03/03/22 10:52:50:603 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 7340 | Failed to delete server domain blocked key. Error: 0
+03/03/22 10:52:50:603 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 7340 | Delete server alias blocked key
+03/03/22 10:52:50:603 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7340 | Sandbox process request: 3 || ServerAliasBlocked * AdobeGenuineNSLookUpData *  | 
+03/03/22 10:52:52:847 | [ERROR] |  |  |  | IPCXMLUtilityLog |  |  | 7340 | IPC Server : Failed to make connection on named pipe, Error = 536
+03/03/22 10:52:52:848 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7340 | Sandbox process response: 
+03/03/22 10:52:52:848 | [ERROR] |  |  |  | AdobeGCClientNSLookup |  |  | 7340 | Failed to delete server alias blocked key. Error: 0
+03/03/22 10:52:52:848 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 7340 | Delete server alias value
+03/03/22 10:52:52:848 | [INFO] |  |  |  | WinSandboxingUtilities |  |  | 7340 | Sandbox process request: 3 || ServerAlias * AdobeGenuineNSLookUpData *  | 
